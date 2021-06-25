@@ -1,0 +1,21 @@
+obj/skia/skia/GrBackendSemaphore.o: \
+  ../../third_party/skia/src/gpu/GrBackendSemaphore.cpp \
+  ../../third_party/skia/include/gpu/GrBackendSemaphore.h \
+  ../../third_party/skia/include/gpu/GrTypes.h \
+  ../../third_party/skia/include/core/SkMath.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/skia/../../skia/config/SkUserConfig.h \
+  ../../skia/ext/skia_histogram.h \
+  ../../third_party/skia/include/gpu/GrConfig.h \
+  ../../third_party/skia/include/gpu/gl/GrGLTypes.h \
+  ../../third_party/skia/include/core/SkRefCnt.h \
+  ../../skia/config/sk_ref_cnt_ext_release.h \
+  ../../third_party/skia/include/gpu/gl/GrGLConfig.h \
+  ../../third_party/skia/include/gpu/gl/GrGLConfig_chrome.h \
+  ../../third_party/skia/include/gpu/mtl/GrMtlTypes.h \
+  ../../third_party/skia/include/ports/SkCFObject.h \
+  ../../third_party/skia/include/gpu/vk/GrVkTypes.h \
+  ../../third_party/skia/include/gpu/vk/GrVkVulkan.h \
+  ../../third_party/skia/include/third_party/vulkan/vulkan/vulkan_core.h \
+  ../../third_party/skia/include/third_party/vulkan/vulkan/vk_platform.h \
+  ../../third_party/skia/include/third_party/vulkan/vulkan/vulkan_android.h

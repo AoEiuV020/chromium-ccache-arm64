@@ -1,0 +1,37 @@
+obj/skia/skia/SkFontMgr_android_parser.o: \
+  ../../third_party/skia/src/ports/SkFontMgr_android_parser.cpp \
+  ../../third_party/skia/include/core/SkFontMgr.h \
+  ../../third_party/skia/include/core/SkFontArguments.h \
+  ../../third_party/skia/include/core/SkScalar.h \
+  ../../third_party/skia/include/private/SkFloatingPoint.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/skia/../../skia/config/SkUserConfig.h \
+  ../../skia/ext/skia_histogram.h \
+  ../../third_party/skia/include/private/SkFloatBits.h \
+  ../../third_party/skia/include/private/SkSafe_math.h \
+  ../../third_party/skia/include/core/SkFontStyle.h \
+  ../../third_party/skia/include/private/SkTPin.h \
+  ../../third_party/skia/include/core/SkRefCnt.h \
+  ../../skia/config/sk_ref_cnt_ext_release.h \
+  ../../third_party/skia/include/core/SkStream.h \
+  ../../third_party/skia/include/core/SkData.h \
+  ../../third_party/skia/include/private/SkTo.h \
+  ../../third_party/skia/include/private/SkTFitsIn.h \
+  ../../third_party/skia/include/private/SkFixed.h \
+  ../../third_party/skia/include/private/SkMalloc.h \
+  ../../third_party/skia/include/private/SkTDArray.h \
+  ../../third_party/skia/include/private/SkTLogic.h \
+  ../../third_party/skia/include/private/SkTemplates.h \
+  ../../third_party/skia/src/core/SkOSFile.h \
+  ../../third_party/skia/include/core/SkString.h \
+  ../../third_party/skia/include/private/SkTArray.h \
+  ../../third_party/skia/include/core/SkMath.h \
+  ../../third_party/skia/include/private/SkSafe32.h \
+  ../../third_party/skia/src/core/SkTSearch.h \
+  ../../third_party/skia/src/ports/SkFontMgr_android_parser.h \
+  ../../third_party/skia/include/private/SkTHash.h \
+  ../../third_party/skia/include/private/SkChecksum.h \
+  ../../third_party/skia/include/private/SkNoncopyable.h \
+  ../../third_party/skia/include/private/SkOpts_spi.h \
+  ../../third_party/expat/src/expat/lib/expat.h \
+  ../../third_party/expat/src/expat/lib/expat_external.h

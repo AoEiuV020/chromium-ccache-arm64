@@ -1,0 +1,5 @@
+obj/third_party/ruy/ruy/have_built_path_for_avx512.o: \
+  ../../third_party/ruy/src/ruy/have_built_path_for_avx512.cc \
+  ../../third_party/ruy/src/ruy/have_built_path_for.h \
+  ../../third_party/ruy/src/ruy/platform.h \
+  ../../third_party/ruy/src/ruy/opt_set.h

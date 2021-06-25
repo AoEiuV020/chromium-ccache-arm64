@@ -1,0 +1,29 @@
+obj/third_party/webrtc/api/rtc_event_log_output_file/rtc_event_log_output_file.o: \
+  ../../third_party/webrtc/api/rtc_event_log_output_file.cc \
+  ../../third_party/webrtc/api/rtc_event_log_output_file.h \
+  ../../third_party/webrtc/api/rtc_event_log_output.h \
+  ../../third_party/webrtc/rtc_base/system/file_wrapper.h \
+  ../../third_party/webrtc/api/rtc_event_log/rtc_event_log.h \
+  ../../third_party/webrtc/api/rtc_event_log/rtc_event.h \
+  ../../third_party/webrtc/api/task_queue/task_queue_factory.h \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/webrtc/api/task_queue/task_queue_base.h \
+  ../../third_party/webrtc/api/task_queue/queued_task.h \
+  ../../third_party/webrtc/rtc_base/system/rtc_export.h \
+  ../../third_party/webrtc/rtc_base/thread_annotations.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/system/inline.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/api/scoped_refptr.h

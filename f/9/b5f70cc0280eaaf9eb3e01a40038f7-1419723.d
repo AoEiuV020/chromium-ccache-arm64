@@ -1,0 +1,28 @@
+obj/third_party/webrtc/call/adaptation/resource_adaptation/broadcast_resource_listener.o: \
+  ../../third_party/webrtc/call/adaptation/broadcast_resource_listener.cc \
+  ../../third_party/webrtc/call/adaptation/broadcast_resource_listener.h \
+  ../../third_party/webrtc/api/adaptation/resource.h \
+  ../../third_party/webrtc/api/scoped_refptr.h \
+  ../../third_party/webrtc/rtc_base/ref_count.h \
+  ../../third_party/webrtc/rtc_base/system/rtc_export.h \
+  ../../third_party/webrtc/rtc_base/synchronization/mutex.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/base/const_init.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/system/inline.h \
+  ../../third_party/webrtc/rtc_base/thread_annotations.h \
+  ../../third_party/webrtc/rtc_base/synchronization/mutex_pthread.h \
+  ../../third_party/webrtc/rtc_base/ref_counted_object.h \
+  ../../third_party/webrtc/rtc_base/constructor_magic.h \
+  ../../third_party/webrtc/rtc_base/ref_counter.h

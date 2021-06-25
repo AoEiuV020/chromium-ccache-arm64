@@ -1,0 +1,21 @@
+obj/third_party/ruy/ruy/create_trmul_params.o: \
+  ../../third_party/ruy/src/ruy/create_trmul_params.cc \
+  ../../third_party/ruy/src/ruy/create_trmul_params.h \
+  ../../third_party/ruy/src/ruy/ctx.h \
+  ../../third_party/ruy/src/ruy/kernel_common.h \
+  ../../third_party/ruy/src/ruy/apply_multiplier.h \
+  ../../third_party/ruy/src/ruy/check_macros.h \
+  ../../third_party/ruy/src/ruy/common.h \
+  ../../third_party/ruy/src/ruy/opt_set.h \
+  ../../third_party/ruy/src/ruy/mat.h \
+  ../../third_party/ruy/src/ruy/matrix.h \
+  ../../third_party/ruy/src/ruy/size_util.h \
+  ../../third_party/ruy/src/ruy/mul_params.h \
+  ../../third_party/ruy/src/ruy/path.h \
+  ../../third_party/ruy/src/ruy/platform.h \
+  ../../third_party/ruy/src/ruy/profiler/instrumentation.h \
+  ../../third_party/ruy/src/ruy/side_pair.h \
+  ../../third_party/ruy/src/ruy/tune.h \
+  ../../third_party/ruy/src/ruy/time.h \
+  ../../third_party/ruy/src/ruy/pack_common.h \
+  ../../third_party/ruy/src/ruy/trmul_params.h

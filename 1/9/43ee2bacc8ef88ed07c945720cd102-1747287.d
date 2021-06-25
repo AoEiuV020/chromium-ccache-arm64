@@ -1,0 +1,19 @@
+obj/components/viz/service/service/renderer_utils.o: \
+  ../../components/viz/service/display/renderer_utils.cc \
+  ../../components/viz/service/display/renderer_utils.h \
+  ../../third_party/skia/include/core/SkMatrix.h \
+  ../../third_party/skia/include/core/SkRect.h \
+  ../../third_party/skia/include/core/SkPoint.h \
+  ../../third_party/skia/include/core/SkMath.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/khronos/../../skia/config/SkUserConfig.h \
+  ../../skia/ext/skia_histogram.h \
+  ../../third_party/skia/include/core/SkScalar.h \
+  ../../third_party/skia/include/private/SkFloatingPoint.h \
+  ../../third_party/skia/include/private/SkFloatBits.h \
+  ../../third_party/skia/include/private/SkSafe_math.h \
+  ../../third_party/skia/include/private/SkSafe32.h \
+  ../../third_party/skia/include/core/SkSize.h \
+  ../../third_party/skia/include/private/SkTFitsIn.h \
+  ../../third_party/skia/include/private/SkMacros.h \
+  ../../third_party/skia/include/private/SkTo.h

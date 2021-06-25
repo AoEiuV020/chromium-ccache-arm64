@@ -1,0 +1,34 @@
+obj/third_party/webrtc/common_video/common_video/video_frame_buffer.o: \
+  ../../third_party/webrtc/common_video/video_frame_buffer.cc \
+  ../../third_party/webrtc/common_video/include/video_frame_buffer.h \
+  ../../third_party/webrtc/api/scoped_refptr.h \
+  ../../third_party/webrtc/api/video/video_frame_buffer.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/system/inline.h \
+  ../../third_party/webrtc/rtc_base/system/rtc_export.h \
+  ../../third_party/webrtc/rtc_base/ref_count.h \
+  ../../third_party/webrtc/rtc_base/ref_counted_object.h \
+  ../../third_party/webrtc/rtc_base/constructor_magic.h \
+  ../../third_party/webrtc/rtc_base/ref_counter.h \
+  ../../third_party/webrtc/api/video/i420_buffer.h \
+  ../../third_party/webrtc/api/video/video_rotation.h \
+  ../../third_party/webrtc/rtc_base/memory/aligned_malloc.h \
+  ../../third_party/libyuv/include/libyuv/convert.h \
+  ../../third_party/libyuv/include/libyuv/basic_types.h \
+  ../../third_party/libyuv/include/libyuv/rotate.h \
+  ../../third_party/libyuv/include/libyuv/convert_argb.h \
+  ../../third_party/libyuv/include/libyuv/convert_from.h \
+  ../../third_party/libyuv/include/libyuv/planar_functions.h

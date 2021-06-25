@@ -1,0 +1,35 @@
+obj/third_party/webrtc/media/rtc_audio_video/payload_type_mapper.o: \
+  ../../third_party/webrtc/media/engine/payload_type_mapper.cc \
+  ../../third_party/webrtc/media/engine/payload_type_mapper.h \
+  ../../third_party/abseil-cpp/absl/types/optional.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/utility/utility.h \
+  ../../third_party/abseil-cpp/absl/base/internal/inline_variable.h \
+  ../../third_party/abseil-cpp/absl/base/internal/identity.h \
+  ../../third_party/abseil-cpp/absl/base/internal/invoke.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/types/bad_optional_access.h \
+  ../../third_party/abseil-cpp/absl/types/internal/optional.h \
+  ../../third_party/abseil-cpp/absl/memory/memory.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/webrtc/api/audio_codecs/audio_format.h \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/system/inline.h \
+  ../../third_party/webrtc/rtc_base/system/rtc_export.h \
+  ../../third_party/webrtc/media/base/codec.h \
+  ../../third_party/webrtc/api/rtp_parameters.h \
+  ../../third_party/webrtc/api/media_types.h \
+  ../../third_party/webrtc/api/priority.h \
+  ../../third_party/webrtc/api/rtp_transceiver_direction.h \
+  ../../third_party/webrtc/api/video_codecs/sdp_video_format.h \
+  ../../third_party/webrtc/media/base/media_constants.h \
+  ../../third_party/abseil-cpp/absl/strings/ascii.h

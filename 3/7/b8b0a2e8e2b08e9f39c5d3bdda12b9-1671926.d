@@ -1,0 +1,28 @@
+obj/third_party/openscreen/src/util/util/digest_sign.o: \
+  ../../third_party/openscreen/src/util/crypto/digest_sign.cc \
+  ../../third_party/openscreen/src/util/crypto/digest_sign.h \
+  ../../third_party/boringssl/src/include/openssl/evp.h \
+  ../../third_party/boringssl/src/include/openssl/base.h \
+  ../../third_party/boringssl/src/include/openssl/is_boringssl.h \
+  ../../third_party/boringssl/src/include/openssl/opensslconf.h \
+  ../../third_party/boringssl/src/include/openssl/evp_errors.h \
+  ../../third_party/boringssl/src/include/openssl/thread.h \
+  ../../third_party/boringssl/src/include/openssl/aead.h \
+  ../../third_party/boringssl/src/include/openssl/base64.h \
+  ../../third_party/boringssl/src/include/openssl/cipher.h \
+  ../../third_party/boringssl/src/include/openssl/digest.h \
+  ../../third_party/boringssl/src/include/openssl/nid.h \
+  ../../third_party/abseil-cpp/absl/types/span.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/types/internal/span.h \
+  ../../third_party/abseil-cpp/absl/algorithm/algorithm.h \
+  ../../third_party/openscreen/src/platform/base/error.h \
+  ../../third_party/openscreen/src/platform/base/macros.h

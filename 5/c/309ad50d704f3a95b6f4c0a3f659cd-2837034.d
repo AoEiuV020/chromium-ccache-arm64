@@ -1,0 +1,36 @@
+obj/third_party/vulkan-deps/glslang/src/glslang_lib_sources/ShaderLang.o: \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/ShaderLang.cpp \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/SymbolTable.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/Common.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/PoolAlloc.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/intermediate.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Include/Common.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Include/Types.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Include/BaseTypes.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Public/ShaderLang.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Public/../Include/ResourceLimits.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Public/../MachineIndependent/Versions.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/arrays.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../Include/ConstantUnion.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/InfoSink.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/ParseHelper.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/parseVersions.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Public/ShaderLang.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/Scan.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/Versions.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/ShHandle.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/../MachineIndependent/Versions.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/localintermediate.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/attribute.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/ConstantUnion.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/ScanContext.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../../OGLCompilersDLL/InitializeDll.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../../OGLCompilersDLL/../glslang/OSDependent/osinclude.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/preprocessor/PpContext.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/preprocessor/../ParseHelper.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/preprocessor/PpTokens.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/reflection.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/iomapper.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/Initialize.h \
+  ../../third_party/vulkan-deps/glslang/src/glslang/MachineIndependent/../Include/ResourceLimits.h \
+  gen/third_party/vulkan-deps/glslang/src/include/glslang/build_info.h

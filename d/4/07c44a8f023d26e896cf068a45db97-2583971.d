@@ -1,0 +1,32 @@
+obj/third_party/tflite-support/tflite-support/task_utils.o: \
+  ../../third_party/tflite-support/src/tensorflow_lite_support/cc/task/core/task_utils.cc \
+  ../../third_party/tflite-support/src/tensorflow_lite_support/cc/task/core/task_utils.h \
+  ../../third_party/abseil-cpp/absl/memory/memory.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/strings/str_cat.h \
+  ../../third_party/abseil-cpp/absl/strings/numbers.h \
+  ../../third_party/abseil-cpp/absl/numeric/bits.h \
+  ../../third_party/abseil-cpp/absl/numeric/internal/bits.h \
+  ../../third_party/abseil-cpp/absl/numeric/int128.h \
+  ../../third_party/abseil-cpp/absl/numeric/int128_have_intrinsic.inc \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/flatbuffers.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/base.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/stl_emulation.h \
+  ../../third_party/tflite/src/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+  ../../third_party/tflite/src/tensorflow/lite/c/common.h \
+  ../../third_party/tflite/src/tensorflow/lite/kernels/internal/types.h \
+  ../../third_party/tflite/src/tensorflow/lite/kernels/internal/compatibility.h \
+  ../../third_party/tflite/src/tensorflow/lite/kernels/op_macros.h \
+  ../../third_party/tflite/src/tensorflow/lite/string_util.h \
+  ../../third_party/tflite/src/tensorflow/lite/string_type.h \
+  ../../third_party/tflite/src/tensorflow/lite/type_to_tflitetype.h \
+  gen/third_party/tflite-support/src/tensorflow_lite_support/metadata/metadata_schema_generated.h

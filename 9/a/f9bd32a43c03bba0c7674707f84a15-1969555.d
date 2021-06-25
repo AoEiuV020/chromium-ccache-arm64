@@ -1,0 +1,37 @@
+obj/third_party/openscreen/src/cast/streaming/common/rtcp_common.o: \
+  ../../third_party/openscreen/src/cast/streaming/rtcp_common.cc \
+  ../../third_party/openscreen/src/cast/streaming/rtcp_common.h \
+  ../../third_party/abseil-cpp/absl/types/optional.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/utility/utility.h \
+  ../../third_party/abseil-cpp/absl/base/internal/inline_variable.h \
+  ../../third_party/abseil-cpp/absl/base/internal/identity.h \
+  ../../third_party/abseil-cpp/absl/base/internal/invoke.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/types/bad_optional_access.h \
+  ../../third_party/abseil-cpp/absl/types/internal/optional.h \
+  ../../third_party/abseil-cpp/absl/memory/memory.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/abseil-cpp/absl/types/span.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/types/internal/span.h \
+  ../../third_party/abseil-cpp/absl/algorithm/algorithm.h \
+  ../../third_party/openscreen/src/cast/streaming/frame_id.h \
+  ../../third_party/openscreen/src/cast/streaming/expanded_value_base.h \
+  ../../third_party/openscreen/src/util/osp_logging.h \
+  ../../third_party/openscreen/src/platform/api/logging.h \
+  ../../third_party/openscreen/src/cast/streaming/ntp_time.h \
+  ../../third_party/openscreen/src/platform/api/time.h \
+  ../../third_party/openscreen/src/platform/base/trivial_clock_traits.h \
+  ../../third_party/openscreen/src/cast/streaming/rtp_defines.h \
+  ../../third_party/openscreen/src/cast/streaming/constants.h \
+  ../../third_party/openscreen/src/cast/streaming/rtp_time.h \
+  ../../third_party/openscreen/src/util/saturate_cast.h \
+  ../../third_party/openscreen/src/cast/streaming/ssrc.h \
+  ../../third_party/openscreen/src/cast/streaming/packet_util.h \
+  ../../third_party/openscreen/src/util/big_endian.h

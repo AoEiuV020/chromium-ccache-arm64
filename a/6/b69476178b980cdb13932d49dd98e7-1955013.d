@@ -1,0 +1,28 @@
+obj/third_party/openscreen/src/util/util/scoped_trace_operations.o: \
+  ../../third_party/openscreen/src/util/trace_logging/scoped_trace_operations.cc \
+  ../../third_party/openscreen/src/util/trace_logging/scoped_trace_operations.h \
+  ../../third_party/openscreen/src/platform/api/time.h \
+  ../../third_party/openscreen/src/platform/base/trivial_clock_traits.h \
+  ../../third_party/openscreen/src/platform/base/error.h \
+  ../../third_party/openscreen/src/platform/base/macros.h \
+  ../../third_party/openscreen/src/platform/base/trace_logging_types.h \
+  ../../third_party/openscreen/src/util/osp_logging.h \
+  ../../third_party/openscreen/src/platform/api/logging.h \
+  ../../third_party/abseil-cpp/absl/types/optional.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/utility/utility.h \
+  ../../third_party/abseil-cpp/absl/base/internal/inline_variable.h \
+  ../../third_party/abseil-cpp/absl/base/internal/identity.h \
+  ../../third_party/abseil-cpp/absl/base/internal/invoke.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/types/bad_optional_access.h \
+  ../../third_party/abseil-cpp/absl/types/internal/optional.h \
+  ../../third_party/abseil-cpp/absl/memory/memory.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/openscreen/src/platform/api/trace_logging_platform.h \
+  ../../third_party/openscreen/src/platform/base/trace_logging_activation.h

@@ -1,0 +1,26 @@
+obj/cc/cc/event_metrics.o: ../../cc/metrics/event_metrics.cc \
+  ../../cc/metrics/event_metrics.h ../../base/optional.h \
+  ../../base/check.h ../../base/base_export.h \
+  ../../base/compiler_specific.h ../../build/build_config.h \
+  ../../base/dcheck_is_on.h gen/base/debug/debugging_buildflags.h \
+  ../../build/buildflag.h ../../base/immediate_crash.h \
+  ../../base/template_util.h ../../base/time/tick_clock.h \
+  ../../base/time/time.h ../../base/check_op.h \
+  ../../base/numerics/safe_math.h ../../base/numerics/checked_math.h \
+  ../../base/numerics/checked_math_impl.h \
+  ../../base/numerics/safe_conversions.h \
+  ../../base/numerics/safe_conversions_impl.h \
+  ../../base/numerics/safe_math_shared_impl.h \
+  ../../base/numerics/safe_math_clang_gcc_impl.h \
+  ../../base/numerics/clamped_math.h \
+  ../../base/numerics/clamped_math_impl.h \
+  ../../base/strings/string_piece.h ../../base/strings/char_traits.h \
+  ../../base/strings/string_piece_forward.h \
+  gen/build/chromeos_buildflags.h ../../cc/cc_export.h \
+  ../../ui/events/types/event_type.h \
+  ../../ui/events/types/scroll_input_type.h ../../base/memory/ptr_util.h \
+  ../../base/notreached.h gen/base/logging_buildflags.h \
+  ../../base/stl_util.h ../../base/containers/contains.h \
+  ../../base/ranges/algorithm.h ../../base/functional/identity.h \
+  ../../base/functional/invoke.h ../../base/ranges/functional.h \
+  ../../base/ranges/ranges.h ../../base/time/default_tick_clock.h
