@@ -1,0 +1,27 @@
+clang_x64/obj/third_party/perfetto/src/tracing/client_api_without_backends/track_event_state_tracker.o: \
+  ../../third_party/perfetto/src/tracing/track_event_state_tracker.cc \
+  ../../third_party/perfetto/include/perfetto/tracing/track_event_state_tracker.h \
+  ../../third_party/perfetto/include/perfetto/base/export.h \
+  ../../third_party/perfetto/include/perfetto/base/build_config.h \
+  clang_x64/gen/third_party/perfetto/build_config/perfetto_build_flags.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/track_event/track_event.pbzero.h \
+  ../../third_party/perfetto/include/perfetto/protozero/message.h \
+  ../../third_party/perfetto/include/perfetto/base/logging.h \
+  ../../third_party/perfetto/include/perfetto/base/compiler.h \
+  ../../third_party/perfetto/include/perfetto/protozero/contiguous_memory_range.h \
+  ../../third_party/perfetto/include/perfetto/protozero/proto_utils.h \
+  ../../third_party/perfetto/include/perfetto/protozero/scattered_stream_writer.h \
+  ../../third_party/perfetto/include/perfetto/protozero/packed_repeated_fields.h \
+  ../../third_party/perfetto/include/perfetto/protozero/proto_decoder.h \
+  ../../third_party/perfetto/include/perfetto/protozero/field.h \
+  ../../third_party/perfetto/include/perfetto/ext/base/hash.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/common/interceptor_descriptor.gen.h \
+  ../../third_party/perfetto/include/perfetto/protozero/cpp_message_obj.h \
+  ../../third_party/perfetto/include/perfetto/protozero/copyable_ptr.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/interned_data/interned_data.pbzero.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/trace_packet.pbzero.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/trace_packet_defaults.pbzero.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/track_event/debug_annotation.pbzero.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/track_event/process_descriptor.pbzero.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/track_event/thread_descriptor.pbzero.h \
+  clang_x64/gen/third_party/perfetto/protos/perfetto/trace/track_event/track_descriptor.pbzero.h
