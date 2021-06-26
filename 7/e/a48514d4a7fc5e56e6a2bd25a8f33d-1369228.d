@@ -1,0 +1,26 @@
+obj/third_party/webrtc/modules/audio_coding/webrtc_opus_wrapper/opus_interface.o: \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/opus_interface.cc \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/opus_interface.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/opus_inst.h \
+  ../../third_party/webrtc/rtc_base/ignore_wundef.h \
+  ../../third_party/opus/src/include/opus.h \
+  ../../third_party/opus/src/include/opus_types.h \
+  ../../third_party/opus/src/include/opus_defines.h \
+  ../../third_party/opus/src/include/opus_multistream.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/system/inline.h \
+  ../../third_party/webrtc/rtc_base/system/rtc_export.h \
+  ../../third_party/webrtc/system_wrappers/include/field_trial.h

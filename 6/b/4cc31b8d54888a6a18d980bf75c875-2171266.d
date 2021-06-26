@@ -1,0 +1,26 @@
+obj/third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_vad_layers/rnn_gru.o: \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_gru.cc \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/rnn_gru.h \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/abseil-cpp/absl/meta/type_traits.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/system/inline.h \
+  ../../third_party/webrtc/rtc_base/system/rtc_export.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/cpu_features.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/vector_math.h \
+  ../../third_party/webrtc/rtc_base/system/arch.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_conversions.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_conversions_impl.h \
+  ../../third_party/rnnoise/src/rnn_activations.h \
+  ../../third_party/rnnoise/src/rnn_vad_weights.h

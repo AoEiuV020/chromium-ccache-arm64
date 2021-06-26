@@ -1,0 +1,21 @@
+clang_x64/obj/net/third_party/quiche/quiche/quic_time.o: \
+  ../../net/third_party/quiche/src/quic/core/quic_time.cc \
+  ../../net/third_party/quiche/src/quic/core/quic_time.h \
+  ../../net/third_party/quiche/src/quic/platform/api/quic_export.h \
+  ../../net/third_party/quiche/overrides/quiche_platform_impl/quiche_export_impl.h \
+  ../../net/base/net_export.h \
+  ../../third_party/abseil-cpp/absl/strings/str_cat.h \
+  ../../third_party/abseil-cpp/absl/base/port.h \
+  ../../third_party/abseil-cpp/absl/base/attributes.h \
+  ../../third_party/abseil-cpp/absl/base/config.h \
+  ../../third_party/abseil-cpp/absl/base/options.h \
+  ../../third_party/abseil-cpp/absl/base/policy_checks.h \
+  ../../third_party/abseil-cpp/absl/base/optimization.h \
+  ../../third_party/abseil-cpp/absl/strings/numbers.h \
+  ../../third_party/abseil-cpp/absl/base/macros.h \
+  ../../third_party/abseil-cpp/absl/numeric/bits.h \
+  ../../third_party/abseil-cpp/absl/numeric/internal/bits.h \
+  ../../third_party/abseil-cpp/absl/numeric/int128.h \
+  ../../third_party/abseil-cpp/absl/numeric/int128_have_intrinsic.inc \
+  ../../third_party/abseil-cpp/absl/strings/string_view.h \
+  ../../third_party/abseil-cpp/absl/base/internal/throw_delegate.h
